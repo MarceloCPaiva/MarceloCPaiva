@@ -1,7 +1,7 @@
 
 # Olá! Eu sou Marcelo Paiva 👋 
 
-- 🔭 Estou a procura de estágio em programação
+- 🔭 Estou mudando de área profissonal, saindo de Infra e indo para o mundo do desenvolvimento de software.
 - 🌱 Atualmente estou estudando **Reactjs, Nodejs** e me aprimorando em **Frontend** 
 
 ***
