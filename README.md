@@ -2,7 +2,7 @@
 # Olá! Eu sou Marcelo Paiva 👋 
 
 - 🔭 Estou a procura de estágio em programação
-- 🌱 Atualmente estou estudando **Banco de Dados** e me aprimorando em **Lógica de programação** 
+- 🌱 Atualmente estou estudando **Reactjs, Nodejs** e me aprimorando em **Frontend** 
 
 ***
  > ### Estudante de Engenharia de Software!
