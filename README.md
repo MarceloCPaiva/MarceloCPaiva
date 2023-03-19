@@ -1,7 +1,7 @@
 
 # Olá! Eu sou Marcelo Paiva 👋 
 
-- 🌱 Programador **Front-end**. 
+- 🌱 Programador **Back-end**. 
 - 🔭 Sou apaixonado por tecnologia e desenvolvimento.
 
 ***
