@@ -5,7 +5,7 @@
 - 🔭 Sou apaixonado por tecnologia e desenvolvimento.
 
 ***
- > ### Estudante de Engenharia de Software!
+ > ### Desenvolvedor e Estudante de Engenharia de Software!
 ***
 ### Conhecimentos em:
 <div style="display: inline_block"><br>
