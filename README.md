@@ -1,8 +1,9 @@
 
 # Olá! Eu sou Marcelo Paiva 👋 
 
-- 🌱 Programador **Back-end**. 
-- 🔭 Sou apaixonado por tecnologia e desenvolvimento.
+Desenvolvedor Full Stack com foco em Python, Django e Angular. Tenho paixão por transformar ideias em soluções tecnológicas eficientes e escaláveis.
+🌱 Atualmente Estou Aprendendo:
+Django e SQL para aprimorar minhas habilidades em back-end.
 
 ***
  > ### Desenvolvedor e Estudante de Engenharia de Software!
