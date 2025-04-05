@@ -1,8 +1,9 @@
 
-# Olá! Eu sou Marcelo Paiva 👋 
+# Olá! Eu sou Marcelo Paiva 👋 \*
 
-Desenvolvedor Full Stack com foco em Python, Django e Angular. Tenho paixão por transformar ideias em soluções tecnológicas eficientes e escaláveis.
-🌱 Atualmente Estou Aprendendo:
+Desenvolvedor Full Stack com foco em Python, Django e Angular. \*
+Tenho paixão por transformar ideias em soluções tecnológicas eficientes e escaláveis.\*
+🌱 Atualmente Estou Aprendendo:\*
 Django e SQL para aprimorar minhas habilidades em back-end.
 
 ***
